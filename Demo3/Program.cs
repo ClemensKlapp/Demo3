@@ -7,6 +7,7 @@
             Console.WriteLine("Hello, World!");
             Console.WriteLine("Changed in Github");
             Console.WriteLine("Changed local");
+            Console.WriteLine("Changed local again");
         }
     }
 }
