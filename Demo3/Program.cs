@@ -6,6 +6,7 @@
         {
             Console.WriteLine("Hello, World!");
             Console.WriteLine("Changed in Github");
+            Console.WriteLine("Changed in branch github-branch");
             Console.WriteLine("Changed local");
         }
     }
